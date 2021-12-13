@@ -1,0 +1,4 @@
+{
+    "C_Cpp.clang_format_style": "{BasedOnStyle: Google, ColumnLimit: 0, IndentWidth: 4, AlignConsecutiveAssignments: AcrossComments, AlignTrailingComments: true, AllowShortLoopsOnASingleLine: true, FixNamespaceComments: true, DerivePointerAlignment: false, PointerAlignment: Left}",
+    "C_Cpp.clang_format_fallbackStyle": "Google"
+}
